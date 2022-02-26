@@ -1,0 +1,10 @@
+.values{
+  display:flex;
+  flex-direction: column;
+  width: 50px;
+  
+}
+
+#idname{
+  width:92px
+}
